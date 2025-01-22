@@ -1,0 +1,10 @@
+captainRed:ADMIN:darkSeas2025
+moonlightWolf:USER:howlAtNight123
+techGuru:USER:codeMaster_99
+silverPhoenix:USER:riseFromAshes2025
+cosmicHacker:ADMIN:0xB3Y6@Galaxy
+starryKnight:USER:shiningArmor2025
+cyberSphinx:USER:decodeTheFuture
+mysticRaven:USER:foreseeTheDarkness
+electricViper:USER:shockAndAwe7
+shadowNinja:USER:stealthMode#2024
